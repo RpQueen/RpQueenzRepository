@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<header>This is my header</header>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+p {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+<h1>This is a Heading</h1>
+<p>This is my first paragraph.</p>
+<p>This is my second paragraph. Forum name: @RpQueen. Hi! I'm learning code one this is my first project. 
+I hope you enjoy!</p>
+<!-- This is my comment! →
+<div style="background-image: url('img_background');">
+</body>
+</html>
