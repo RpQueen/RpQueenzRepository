@@ -4,20 +4,20 @@
 <head>
 <title>Page Title</title>
 <style>
-p.ex1 {
-  margin: 35px;
-}
 body {
   background-color: darksalmon;
 }
 </style>
 </head>
 <body>
+p.ex1 {
+  margin: 35px;
+}
 <h1>This is a Heading</h1>
 <p>This is my first paragraph.</p>
 <p>This is my second paragraph. Forum name: @RpQueen. Hi! I'm learning code one this is my first project. 
 I hope you enjoy!</p>
-<!-- This is my comment! →
+<!-- This is my comment! --!>
 <footer>
 <p>My footer!</p>
 </footer>
